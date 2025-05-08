@@ -1,0 +1,11 @@
+Marius 1.0
+Andrei 1.0
+Andrei 15.0
+Andrew 14.5
+s 0.0
+Marius 1.0
+Andrei 0.0
+Andrei 1.0
+Andrew 3.5
+Andrei 4.0
+Gilbert 1.0

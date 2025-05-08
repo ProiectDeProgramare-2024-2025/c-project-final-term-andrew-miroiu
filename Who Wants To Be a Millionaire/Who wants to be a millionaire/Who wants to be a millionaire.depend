@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1742553532 source:d:\who wants to be a millionaire\who wants to be a millionaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
